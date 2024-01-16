@@ -1,4 +1,4 @@
-<h2 align="left">Mubeen K. - Full Stack Web Developer</h2>
+<h2 align="center">Mubeen K. - Full Stack Web Developer</h2>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://profile-counter.glitch.me/mubeenkexe/count.svg?"  />
 </div>
 
