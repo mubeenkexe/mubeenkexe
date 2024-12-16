@@ -10,8 +10,7 @@
 
 ###
 
-<p align="left">- **Current Role:** MERN Stac Developer<br>
-### Frontend:<br>- **Languages:** JavaScript (ES6+), TypeScript<br>- **Frameworks:** React.js, Next.js, Vite<br>- **Styling:** Tailwind CSS, Bootstrap, Material UI, Shadcn/ui<br>- **Animations:** Framer Motion, GSAP<br>- **Passions:** Learning cutting-edge technologies, creating scalable applications, and contributing to impactful projects.<br>- **Interests:** Exploring AI, Machine Learning, and Blockchain technologies.</p>
+<p align="left">- <strong>Current Role:</strong> MERN Stack Developer<br>- <strong>Skillset:</strong> Full-stack development using <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, and <strong>Express.js</strong>.<br>- <strong>Passions:</strong> Learning cutting-edge technologies, creating scalable applications, and contributing to impactful projects.<br>- <strong>Interests:</strong> Exploring AI, Machine Learning, and Blockchain technologies.</p>
 
 ###
 
@@ -19,10 +18,7 @@
 
 ###
 
-<p align="left">- **Current Role:** MERN Stack Developer<br>- **Skillset:** Full-stack development using **React.js**, **Next.js**, **Node.js**, and **Express.js**.<br>- **Passions:** Learning cutting-edge technologies, creating scalable applications, and contributing to impactful projects.<br>- **Interests:** Exploring AI, Machine Learning, and Blockchain technologies.<br><br>
-### Backend:<br>- **Frameworks:** Node.js, Express.js, NestJS<br>- **Authentication:** NextAuth, JWT<br>- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB<br>- **ORM/Tools:** Prisma ORM, Bcrypt<br><br>
-### Mobile Development:<br>- **Frameworks:** React Native<br><br>
-### Other Tools & Libraries:<br>- Redux Toolkit, React Router, React Hook Form, Zod</p>
+<p align="left"><h3>Frontend:</h3><br><ul><br>  <li><strong>Languages:</strong> JavaScript (ES6+), TypeScript</li><br>  <li><strong>Frameworks:</strong> React.js, Next.js, Vite</li><br>  <li><strong>Styling:</strong> Tailwind CSS, Bootstrap, Material UI, Shadcn/ui</li><br>  <li><strong>Animations:</strong> Framer Motion, GSAP</li><br></ul><br><br><h3>Backend:</h3><br><ul><br>  <li><strong>Frameworks:</strong> Node.js, Express.js, NestJS</li><br>  <li><strong>Authentication:</strong> NextAuth, JWT</li><br>  <li><strong>Databases:</strong> PostgreSQL, MySQL, SQLite, MongoDB</li><br>  <li><strong>ORM/Tools:</strong> Prisma ORM, Bcrypt</li><br></ul><br><br><h3>Mobile Development:</h3><br><ul><br>  <li><strong>Frameworks:</strong> React Native</li><br></ul><br><br><h3>Other tools and libraries:</h3><br><ul><br>  <li>Redux Toolkit, React Router, React Hook Form, Zod</li><br></ul></p>
 
 ###
 
@@ -30,7 +26,7 @@
 
 ###
 
-<p align="left">- Advanced concepts in **React** and **Next.js**.<br>- Backend architecture with **NestJS**.<br>- Payment integration with **StripeJS**.<br>- Creating appealing user interfaces with Figma</p>
+<p align="left"><ul><br>  <li>Advanced concepts in <strong>React</strong> and <strong>Next.js</strong>.</li><br>  <li>Backend architecture with <strong>NestJS</strong>.</li><br>  <li>Payment integration with <strong>StripeJS</strong>.</li><br>  <li>Building scalable systems with <strong>Kafka</strong>.</li><br></ul></p>
 
 ###
 
@@ -90,7 +86,7 @@
   <a href="https://instagram/mubeenk.exe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="mubeenk.exe@gmail.com" target="_blank">
+  <a href="mailto:mubeenk.exe@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mubeenk-exe" target="_blank">
@@ -105,7 +101,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mubeenkexe/mubeenkexe/output/snake.svg" alt="Snake animation" />
+<img src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" alt="Snake animation" />
 
 ###
 
