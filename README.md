@@ -57,7 +57,7 @@
   <img src="https://streak-stats.demolab.com?user=mubeenkexe&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mubeenkexe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph" />
 </div>
-
+</br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
   <img width="12" />
@@ -91,7 +91,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo" />
 </div>
-
+</br>
 <div align="center">
   <a href="https://instagram/mubeenk.exe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -106,9 +106,9 @@
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo" />
   </a>
 </div>
-
+</br>
 <div align="center">
   <img src="https://i.pinimg.com/originals/88/a9/69/88a969c3e830bbcbff939ea870058d91.gif" alt="Programming animation" />
 </div>
-
+</br>
 <p align="center">Feel free to explore my repositories and reach out if you'd like to collaborate on a project or just connect. Happy coding!</p>
